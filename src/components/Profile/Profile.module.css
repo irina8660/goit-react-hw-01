@@ -7,7 +7,8 @@
   align-items: center;
   justify-content: space-between;
   border: 3px solid black;
-  border-radius: 3%;
+  border-radius: 10px;
+  margin-bottom: 20px;
 }
 
 .profile__info {

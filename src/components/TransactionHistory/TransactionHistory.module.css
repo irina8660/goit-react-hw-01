@@ -1,0 +1,29 @@
+.transaction__table {
+  width: 280px;
+  border-collapse: collapse;
+}
+
+.transaction__table_head {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(42, 42, 42, 1);
+  border: 1px solid #000;
+}
+
+.transaction__table_head th {
+  padding: 10px;
+  text-align: center;
+}
+
+.transaction__table_body td {
+  padding: 10px;
+  border: 1px solid #000;
+  text-align: center;
+}
+
+.transaction__table_body tr:nth-child(even) {
+  background-color: #d1d1d1;
+}
+
+.transaction__table_row:first-child {
+  text-transform: capitalize;
+}

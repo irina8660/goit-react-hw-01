@@ -1,0 +1,16 @@
+.friend__avatar {
+  width: 55px;
+  height: 55px;
+  border: 1px solid black;
+  border-radius: 50%;
+  background-color: floralwhite;
+}
+.friend__name {
+  font-size: 20px;
+}
+.friend__status_online {
+  color: green;
+}
+.friend__status_offline {
+  color: red;
+}
